@@ -1,6 +1,7 @@
 /*
 These macros can be activated or deactivate to validate a particular test. For deactivate the code of a unit test
-only comment the line. The code needed to compile and run the test will be deactivated in the test suite 
+only comment the corresponding line. The code needed to compile and run the test will be deactivated in the test suite.
+All these macros must be activated to garantee al tests pass. 
 */
 
 #define ENABLE_COMPONENT_TEST1

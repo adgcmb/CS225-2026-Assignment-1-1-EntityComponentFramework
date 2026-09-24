@@ -6,7 +6,7 @@ All these macros must be activated to garantee al tests pass.
 
 #define ENABLE_COMPONENT_TEST1
 #define ENABLE_COMPONENT_TEST2
-/*#define ENABLE_COMPONENT_TEST3
+#define ENABLE_COMPONENT_TEST3
 #define ENABLE_COMPONENT_TEST4
 #define ENABLE_COMPONENT_TEST5
 
@@ -16,5 +16,5 @@ All these macros must be activated to garantee al tests pass.
 #define ENABLE_ENTITY_TEST9
 #define ENABLE_ENTITY_TEST10
 #define ENABLE_ENTITY_TEST11
-#define ENABLE_ENTITY_TEST12*/
+#define ENABLE_ENTITY_TEST12
 

@@ -25,6 +25,7 @@ Component* Component::clone() const
 }
 bool Component::print() const
 {
+    printf("class Component(id %d)\n",id);
     return true;
 }
 bool Component::compare_to(IComparable& rhs) const
